@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jehsjardim/Aula5SDM2803/issues"
   },
-  "homepage": "https://github.com/jehsjardim/Aula5SDM2803#readme"
+  "homepage": "https://github.com/jehsjardim/Aula5SDM2803#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
